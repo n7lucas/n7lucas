@@ -1,6 +1,6 @@
 ## 🅽𝟳 Lucas Dos Santos Mello
 
-<!--
+
 **n7lucas/n7lucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🎓 Computer Sience | FEMA - Assis,SP
 🎓 M.Sc. Mathematics & Computer Science | Uminho- Braga, PT
@@ -22,4 +22,4 @@ Tech Stack
 ![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
--->
+
